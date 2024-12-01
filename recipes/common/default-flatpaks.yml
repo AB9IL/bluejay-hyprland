@@ -15,9 +15,16 @@ system:
   - dev.skynomads.Seabird
   - net.nokyan.Resources
   - fr.sgued.ten_forward
+  - md.obsidian.Obsidian
+  - org.audacityteam.Audacity
+  - org.bleachbit.BleachBit
+  - org.gimp.GIMP
   - org.libreoffice.LibreOffice
   - com.obsproject.Studio
   - com.obsproject.Studio.Plugin.OBSVkCapture
+  - org.shotcut.Shotcut
+  - com.sigil_ebook.Sigil
+  - org.upscayl.Upscayl
   remove:
   #- io.missioncenter.MissionCenter
 
