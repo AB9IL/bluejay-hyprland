@@ -3,11 +3,12 @@ modules:
     fonts:
       nerd-fonts:
         - Arimo
-        - BitstromWera
+        - BitstreamVeraSansMono
         - FiraCode
         - JetBrainsMono
         - Inconsolata
         - IntelOneMono
+        - LiberationMono
         - NerdFontsSymbolsOnly
       google-fonts:
         - Fira Sans
