@@ -24,9 +24,11 @@ system:
   - org.libreoffice.LibreOffice
   - com.obsproject.Studio
   - com.obsproject.Studio.Plugin.OBSVkCapture
+  - com.saivert.pwvucontrol
   - org.shotcut.Shotcut
   - com.sigil_ebook.Sigil
   - org.upscayl.Upscayl
+  - us.zoom.Zoom
   remove:
   #- io.missioncenter.MissionCenter
 
