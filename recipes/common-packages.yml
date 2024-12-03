@@ -69,7 +69,7 @@ install:
   - kanshi
 
 # terminal
-  - foot
+  - ptyxis
   - starship
   - fish
   - zsh
