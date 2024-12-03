@@ -32,4 +32,6 @@ system:
   - us.zoom.Zoom
   remove:
   #- io.missioncenter.MissionCenter
-
+  - org.gnome.TextEditor
+  - org.gnome.TextEditor.Locale
+  
