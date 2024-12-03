@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h1 align="center">wayblue</h1>
+<h1 align="center">Bluejay-Hyprland is built on Wayblue (built on Universal Blue)</h1>
 
 
 [![wayblue](https://github.com/wayblueorg/wayblue/actions/workflows/build.yml/badge.svg)](https://github.com/wayblueorg/wayblue/actions/workflows/build.yml)
