@@ -19,6 +19,9 @@ install:
   - python3-scipy
   - python3-sympy
   - python3-sympad
+  - vim-default-editor
 remove:
   - firefox # default firefox removed in favor of flatpak
   - firefox-langpacks # langpacks needs to also be removed to prevent dependency problems
+  - nano
+  - nano-default-editor
