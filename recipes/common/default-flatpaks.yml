@@ -9,7 +9,6 @@ system:
   - io.github.dvlv.boxbuddyrs
   - io.github.flattool.Warehouse
   - com.github.tchx84.Flatseal
-  - io.neovim.nvim
   - it.mijorus.gearlever
   - com.usebottles.bottles
   - com.github.marhkb.Pods
