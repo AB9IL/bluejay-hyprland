@@ -11,6 +11,14 @@ install:
   - libopenraw
   - htop
   - nvtop
+  - python3-bs4
+  - python3-html5lib
+  - python3-matplotlib
+  - python3-numpy
+  - python3-pip
+  - python3-scipy
+  - python3-sympy
+  - python3-sympad
 remove:
   - firefox # default firefox removed in favor of flatpak
   - firefox-langpacks # langpacks needs to also be removed to prevent dependency problems
