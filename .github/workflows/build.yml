@@ -4,11 +4,11 @@ on:
     - cron: "00 18 * * *" # build at 18:00 UTC every day 
                           # 80 minutes after the last uBlue images start building
                           # 60 minutes after last wayblue images start building
-  push:
-    paths-ignore: # don't rebuild if only documentation has changed
-      - "**.md"
+ # push:
+ #   paths-ignore: # don't rebuild if only documentation has changed
+ #     - "**.md"
       
-  pull_request:
+ # pull_request:
   workflow_dispatch: # allow manually triggering builds
 jobs:
   bluebuild:
