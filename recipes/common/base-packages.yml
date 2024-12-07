@@ -14,7 +14,7 @@ install:
   - ipython
   - lsp-plugins
   - pypy
-  - python3-bs4
+  - python3-beautifulsoup4
   - python3-html5lib
   - python3-matplotlib
   - python3-mypy
