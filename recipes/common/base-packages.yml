@@ -12,6 +12,7 @@ install:
   - htop
   - nvtop
   - ipython
+  - lsp-plugins
   - pypy
   - python3-bs4
   - python3-html5lib
@@ -22,7 +23,6 @@ install:
   - python3-pyaudio
   - python3-scipy
   - python3-sympy
-  - python3-sympad
   - vim-default-editor
 remove:
   - firefox # default firefox removed in favor of flatpak
