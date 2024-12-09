@@ -4,6 +4,7 @@ repos:
   - https://copr.fedorainfracloud.org/coprs/decathorpe/miniaturo/repo/fedora-41/decathorpe-miniaturo-fedora-41.repo
   - https://copr.fedorainfracloud.org/coprs/pesader/showmethekey/repo/fedora-41/pesader-showmethekey-fedora-41.repo
 install:
+  - black
   - showmethekey # Keyboard code viewer, doesn't work in container
   - podman-compose
   - libvirt
@@ -14,7 +15,6 @@ install:
   - lsp-plugins
   - pypy
   - python3-beautifulsoup4
-  - python3-cffi
   - python3-h5py
   - python3-html5lib
   - python3-ipython
@@ -22,13 +22,14 @@ install:
   - python3-mypy
   - python3-numpy
   - python3-pandas
-  - python3-pandas-datareader
+  - python3-pandas-data-reader
   - python3-pip
   - python3-pyaudio
   - python3-pyyaml
   - python3-scipy
   - python3-sympy
   - python3-xmltodict
+  - ruff
   - vim-default-editor
 remove:
   - firefox # default firefox removed in favor of flatpak
