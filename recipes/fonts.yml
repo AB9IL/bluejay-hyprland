@@ -11,10 +11,18 @@ modules:
         - LiberationMono
         - NerdFontsSymbolsOnly
       google-fonts:
+        - Architects Daughter
+        - Candal
+        - Cardo
+        - Chewy
+        - Finger Paint
         - Fira Sans
         - Fira Sans Condensed
         - Fira Sans Extra Condensed
-        - Merriweather
-        - Cardo
         - Libre Baskerville
+        - Merriweather
+        - Nixie One
+        - Permanent Marker
         - Roboto
+        - Special Elite
+        - Sriracha
