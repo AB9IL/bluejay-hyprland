@@ -87,7 +87,6 @@ install:
   - zsh
   #- nodejs-bash-language-server
   - ShellCheck
-  - eza
   - fzf
   - util-linux
 
@@ -96,7 +95,6 @@ install:
   - swaync
 
 # theme and GUI
-  - swww
   - fontawesome-fonts-all
   - gnome-themes-extra
   - gnome-icon-theme
